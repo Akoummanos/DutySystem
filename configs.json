@@ -1,0 +1,20 @@
+{
+    "bot":{
+        "TOKEN":"",
+        "PREFIX":"!"
+    },
+    "embeds":{
+        "NAME":"",
+        "COLOR":"",
+        "LOGO":""
+    },
+    "db":{
+        "MONGOOSE_URL":""
+    },
+    "roles":{
+        "STAFF":""
+    },
+    "logs":{
+        "DUTY":""
+    }
+}

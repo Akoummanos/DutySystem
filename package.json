@@ -1,0 +1,27 @@
+{
+  "name": "roleplay-dutysystem-akoummanos",
+  "version": "1.0.0",
+  "description": "A discord duty system for staffs. Commands: !on, !off, !hours, !delete-hours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akoummanos/DutySystem.git"
+  },
+  "author": "©2021 Akoummanos, All rights reserved",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akoummanos/DutySystem/issues"
+  },
+  "homepage": "https://github.com/Akoummanos/DutySystem#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mathjs": "^9.4.4",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.3"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
